@@ -1,1 +1,1 @@
-# JavaScript-Project
+# Animated Brick project
